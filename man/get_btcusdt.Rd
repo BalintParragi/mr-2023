@@ -7,7 +7,7 @@
 get_btcusdt(attempt = 1)
 }
 \arguments{
-\item{attempt}{1}
+\item{attempt}{number from 1 to 5}
 }
 \value{
 num value of 1 BTC in USD

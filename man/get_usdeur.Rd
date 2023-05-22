@@ -7,7 +7,7 @@
 get_usdeur()
 }
 \value{
-num value of 1 USD in EUR
+numeric value of 1 USD in EUR
 }
 \description{
 Retrieve USD/EUR exchange rate using API
