@@ -4,9 +4,9 @@ Title: Mastering R class example
 Version: 0.1.0
 Author: I know him. It's me
 Maintainer: Balint Parragi <Parragi_Balint@student.ceu.edu>
-Description: Helper functions to get currency exchange rates in a formatted way.
+Description: Helper functions to get currency exchange rates and BTC values in a formatted way.
 License: GPL
 Encoding: UTF-8
 LazyData: true
-Imports: scales
+Imports: scales, binancer, data.table, logger, checkmate, jsonlite
 RoxygenNote: 7.2.3
