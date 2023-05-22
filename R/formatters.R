@@ -1,4 +1,4 @@
-#' Format a number with the EUR symbol
+#' Format a number with the EUR symbol added
 #' @param x number
 #' @return string with the EUR symbol as prefix
 #' @examples
