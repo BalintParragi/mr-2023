@@ -1,5 +1,5 @@
 #' Retrieve most recent BTC value in USD
-#' @param attempt 1
+#' @param attempt number from 1 to 5
 #' @return num value of 1 BTC in USD
 #' @examples
 #' get_btcusdt()

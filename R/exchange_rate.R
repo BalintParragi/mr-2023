@@ -1,5 +1,5 @@
 #' Retrieve USD/EUR exchange rate using API
-#' @return num value of 1 USD in EUR
+#' @return numeric value of 1 USD in EUR
 #' @examples
 #' get_usdeur()
 #' @export
