@@ -5,7 +5,9 @@
 #' get_btcusdt()
 #' @export
 #' @importFrom binancer binance_coins_prices
-#' @import checkmate, logger, data.table
+#' @importFrom checkmate assert_number
+#' @importFrom logger log_error
+#' @import data.table
 
 get_btcusdt <- function(attempt = 1){
   tryCatch({

@@ -2,7 +2,7 @@
 % Please edit documentation in R/formatters.R
 \name{euro}
 \alias{euro}
-\title{Format a number with the EUR symbol}
+\title{Format a number with the EUR symbol added}
 \usage{
 euro(x)
 }
@@ -13,7 +13,7 @@ euro(x)
 string with the EUR symbol as prefix
 }
 \description{
-Format a number with the EUR symbol
+Format a number with the EUR symbol added
 }
 \examples{
 euro(42)

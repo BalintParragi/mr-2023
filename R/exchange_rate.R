@@ -4,7 +4,8 @@
 #' get_usdeur()
 #' @export
 #' @importFrom jsonlite fromJSON
-#' @import checkmate, logger
+#' @importFrom checkmate assert_number
+#' @import logger
 
 get_usdeur <- function(){
   tryCatch({
